@@ -4,8 +4,8 @@
 This is my first React Native application created for CPAN 213 course.
 
 ## Student Information
-- Name: [Your Name]
-- Student ID: [Your ID]
+- Name: xxxxxx
+- Student ID: nxxxxxxxx
 - Course: CPAN 213 – Cross-Platform Mobile Application Development
 - Date: September 15, 2025
 
